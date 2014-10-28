@@ -1,4 +1,4 @@
 sicknal.co
 ==========
 
-It's a joke, OK?
+[Visit www.sicknal.co](http://www.sicknal.co/)
